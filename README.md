@@ -99,11 +99,9 @@ http://localhost:3000
 
 ## Preview
 
-![Home View](images\screenshot-1.png)
-
-![Design Preview](images/screenshot-2.png)
-
-![Cart and Saved Designs](images/screenshot-3.png)
+![Home View](public/images/screenshot-1.png)
+![Design Preview](public/images/screenshot-2.png)
+![Cart and Saved Designs](public/images/screenshot-3.png)
 
 ## Author
 
