@@ -99,7 +99,7 @@ http://localhost:3000
 
 ## Preview
 
-![Home View](https://raw.githubusercontent.com/lubah-is-hungry/luxe-ring-builder/main/public/images/screenshot-1.png)
+![Home View](public/images/screenshot-1.png)
 ![Design Preview](public/images/screenshot-2.png)
 ![Cart and Saved Designs](public/images/screenshot-3.png)
 
