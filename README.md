@@ -81,6 +81,13 @@ http://localhost:3000
 5. Add engraving text if needed.
 6. View the live ring preview.
 7. Save the design or add it to the cart.
+8. 
+## Database Setup
+
+This project uses SQLite for persistent data storage.
+The SQLite database file is automatically created when the server starts for the first time, so no manual database setup is required.
+Saved ring designs are stored persistently in the SQLite database and remain available after restarting the server.
+
 
 ## Notes
 
