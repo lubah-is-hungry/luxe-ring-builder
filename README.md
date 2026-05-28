@@ -97,6 +97,19 @@ http://localhost:3000
 - Add image customization for more realistic previews.
 - Improve mobile responsiveness even further.
 
+## Preview
+
+![Home View](images/screenshot-1.png)
+
+![Design Preview](images/screenshot-2.png)
+
+![Cart and Saved Designs](images/screenshot-3.png)
+
+## Author
+
+Developed by **Lubana Bind Abbas**  
+GitHub: [lubah-is-hungry](https://github.com/lubah-is-hungry)
+
 ## License
 
 This project is for educational and portfolio use.
