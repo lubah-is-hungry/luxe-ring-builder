@@ -99,7 +99,7 @@ http://localhost:3000
 
 ## Preview
 
-![Home View](images/screenshot-1.png)
+![Home View](images\screenshot-1.png)
 
 ![Design Preview](images/screenshot-2.png)
 
