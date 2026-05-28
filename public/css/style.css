@@ -1,0 +1,161 @@
+body {
+  font-family: Georgia, serif;
+  background:
+    radial-gradient(circle at top left, rgba(201, 166, 74, 0.18), transparent 28%),
+    radial-gradient(circle at top right, rgba(130, 95, 20, 0.12), transparent 24%),
+    linear-gradient(180deg, #fbf6ee 0%, #f3e5c6 100%);
+  color: #2d2420;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #fff9ef 0%, #f4e2b8 100%) !important;
+  border-bottom: 1px solid rgba(175, 132, 35, 0.25) !important;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+}
+
+.navbar-brand {
+  letter-spacing: 2px;
+  color: #6f5210 !important;
+  font-weight: 700;
+}
+
+.hero {
+  background:
+    linear-gradient(135deg, rgba(255,255,255,0.78), rgba(255,245,224,0.62)),
+    linear-gradient(180deg, #f6e4bf 0%, #f9f2e5 100%);
+  padding: 72px 0;
+  border-bottom: 1px solid rgba(175, 132, 35, 0.18);
+}
+
+.letter-space {
+  letter-spacing: 3px;
+  font-size: 0.85rem;
+  color: #9a761f;
+  font-weight: 600;
+}
+
+.hero h1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #2a2016;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+}
+
+.hero-text {
+  max-width: 540px;
+  font-size: 1.12rem;
+  color: #6e5d48;
+}
+
+.hero-img {
+  object-fit: cover;
+  min-height: 360px;
+  border: 1px solid rgba(175, 132, 35, 0.18);
+  box-shadow: 0 18px 40px rgba(113, 80, 12, 0.18);
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2d2418;
+  margin-bottom: 1rem;
+}
+
+.product-card {
+  border: 1px solid rgba(175, 132, 35, 0.16);
+  border-radius: 22px;
+  overflow: hidden;
+  background: linear-gradient(180deg, #fffdf8 0%, #fff5e5 100%);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.08);
+}
+
+.product-img {
+  height: 240px;
+  object-fit: cover;
+  background: #f8e4a274;
+  border-bottom: 1px solid rgba(175, 132, 35, 0.12);
+}
+
+.btn-gold {
+  background: linear-gradient(180deg, #d8ae47 0%, #b88412 100%);
+  color: white;
+  border: 1px solid #9f7310;
+  box-shadow: 0 10px 18px rgba(184, 132, 18, 0.18);
+}
+
+.btn-gold:hover {
+  background: linear-gradient(180deg, #c99b2b 0%, #986d0d 100%);
+  color: white;
+}
+
+.preview-panel {
+  background: linear-gradient(180deg, #f1d89b 0%, #fff4df 100%);
+  border-radius: 22px;
+  padding: 22px;
+  border: 1px solid rgba(175, 132, 35, 0.18);
+  box-shadow: 0 14px 30px rgba(0,0,0,0.08);
+}
+
+.preview-box {
+  background: linear-gradient(180deg, #926614 0%, #f8edd4 100%);
+  border: 1px solid rgba(175, 132, 35, 0.15);
+  border-radius: 18px;
+  padding: 18px;
+}
+
+.preview-image {
+  max-height: 220px;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 16px rgba(139, 98, 12, 0.16));
+}
+
+.form-label {
+  color: #5e4c2f;
+  font-weight: 600;
+}
+
+.form-select,
+.form-control {
+  border-radius: 14px;
+  border: 1px solid rgba(175, 132, 35, 0.20);
+  background-color: #fffdf8;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.03);
+}
+
+.form-select:focus,
+.form-control:focus {
+  border-color: #c7971f;
+  box-shadow: 0 0 0 0.2rem rgba(201, 151, 31, 0.18);
+}
+
+.saved-table {
+  background: #ba840f;
+  border-radius: 16px;
+  border: 1px solid rgba(175, 132, 35, 0.14);
+  overflow: hidden;
+}
+
+.table thead {
+  background: #f2e0b5;
+}
+
+.table th, .table td {
+  padding: 12px 10px;
+}
+
+.badge-soft {
+  background: #f7ebcb;
+  color: #735513;
+  border: 1px solid rgba(175, 132, 35, 0.18);
+}
+
+.cart-section {
+  margin-top: 16px;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+}
